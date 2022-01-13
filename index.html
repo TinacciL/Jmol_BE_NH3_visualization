@@ -39,6 +39,26 @@
 <tr>
   <div id="load_xyz"> </div>
 </tr>
+<tr>
+<script>
+      jmolRadioGroup([
+      ["spacefill off", "sticks"],
+      ["spacefill 25%", "sticks and balls", "checked"],
+      ["spacefill 100%", "van der Waals"]
+      ]); jmolBr(); jmolBr();
+</script>
+<script>
+      jmolRadioGroup([
+      ["hbonds off", "H-bonds off"],
+      ["calculate hbonds; color hbonds lightgrey; hbonds 0.04", "H-bonds on", "checked"]
+      ]); jmolBr(); jmolBr();
+</script>
+<td width="150">
+<script>
+      jmolCheckbox("spin on", "spin off", "spin"); 
+      jmolCheckbox("set antialiasDisplay true", "set antialiasDisplay false", "alias"); 
+</script>
+</tr>
 </table>
 </p>
 
