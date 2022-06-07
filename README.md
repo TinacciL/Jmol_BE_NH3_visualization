@@ -3,7 +3,7 @@ Theoretical Distribution of the Ammonia Binding Energy at Interstellar Icy Grain
 Lorenzo Tinacci, Auréle Germain, Stefano Pantaleone, Stefano Ferrero, Cecilia Ceccarelli, and Piero Ugliengo
 ACS Earth and Space Chemistry Article ASAP
 
-DOI:[10.1021/acsearthspacechem.2c00040]([10.1021/acsearthspacechem.2c00040](https://pubs.acs.org/doi/10.1021/acsearthspacechem.2c00040))
+DOI:[10.1021/acsearthspacechem.2c00040](https://pubs.acs.org/doi/10.1021/acsearthspacechem.2c00040)
 
  
 
