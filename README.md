@@ -8,6 +8,7 @@ DOI:[10.1021/acsearthspacechem.2c00040](https://pubs.acs.org/doi/10.1021/acseart
 Computer Generated Realistic Interstellar Icy Grain Models: Physicochemical Properties and Interaction with NH3
 Aurèle Germain, Lorenzo Tinacci, Stefano Pantaleone, Cecilia Ceccarelli, and Piero Ugliengo
 ACS Earth and Space Chemistry 2022 6 (5), 1286-1298
+
 DOI: [10.1021/acsearthspacechem.2c00004](https://pubs.acs.org/doi/10.1021/acsearthspacechem.2c00004)
 
 ## Acknowledgments
