@@ -19,6 +19,10 @@ URL = {https://doi.org/10.1021/acsearthspacechem.2c00040},
 }
 ```
 
+The database of all the structures is available at the following:
+DOI:[10.5281/zenodo.7389281](https://zenodo.org/record/7389281)
+
+
 Computer Generated Realistic Interstellar Icy Grain Models: Physicochemical Properties and Interaction with NH3
 Aurèle Germain, Lorenzo Tinacci, Stefano Pantaleone, Cecilia Ceccarelli, and Piero Ugliengo
 ACS Earth and Space Chemistry 2022 6 (5), 1286-1298
