@@ -1,7 +1,7 @@
 ## Associated publications
 Theoretical Distribution of the Ammonia Binding Energy at Interstellar Icy Grains: A New Computational Framework
 Lorenzo Tinacci, Auréle Germain, Stefano Pantaleone, Stefano Ferrero, Cecilia Ceccarelli, and Piero Ugliengo
-ACS Earth and Space Chemistry Article ASAP
+ACS Earth and Space Chemistry Article, 2022, 6, 6, 1514–1526
 
 DOI:[10.1021/acsearthspacechem.2c00040](https://pubs.acs.org/doi/10.1021/acsearthspacechem.2c00040)
 
@@ -10,12 +10,12 @@ DOI:[10.1021/acsearthspacechem.2c00040](https://pubs.acs.org/doi/10.1021/acseart
 author = {Tinacci, Lorenzo and Germain, Auréle and Pantaleone, Stefano and Ferrero, Stefano and Ceccarelli, Cecilia and Ugliengo, Piero},
 title = {Theoretical Distribution of the Ammonia Binding Energy at Interstellar Icy Grains: A New Computational Framework},
 journal = {ACS Earth and Space Chemistry},
-volume = {0},
-number = {0},
-pages = {null},
-year = {0},
+volume = {6},
+number = {6},
+pages = {1514--1526},
+year = {2022},
 doi = {10.1021/acsearthspacechem.2c00040},
-URL = {https://doi.org/10.1021/acsearthspacechem.2c00040},
+publisher={ACS Publications},
 }
 ```
 
